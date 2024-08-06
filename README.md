@@ -1,1 +1,1 @@
-# Kgasr-yaml-config-reader
+# yaml-config-reader
